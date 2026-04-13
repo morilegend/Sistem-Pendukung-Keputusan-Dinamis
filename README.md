@@ -2,7 +2,7 @@
 
 Aplikasi Sistem Pendukung Keputusan (SPK) Dinamis yang dibangun menggunakan framework **Laravel 11**. Aplikasi ini memungkinkan pengguna untuk membuat, mengelola, dan melakukan perhitungan SPK secara dinamis dengan dukungan multi-kategori untuk Kriteria, Alternatif, dan Penilaian.
 
-## 🌟 Fitur Utama
+##Fitur Utama
 Aplikasi ini dilengkapi dengan berbagai fitur yang mendukung fleksibilitas dalam proses pengambilan keputusan:
 
 1. **Multi-Role / Hak Akses Pengguna:**
@@ -24,7 +24,7 @@ Aplikasi ini dilengkapi dengan berbagai fitur yang mendukung fleksibilitas dalam
 
 ---
 
-## 💻 System Requirements
+##System Requirements
 
 - **PHP: Versi 8.2 atau lebih baru**
 - **Composer:** Sebagai *dependency manager* PHP.
