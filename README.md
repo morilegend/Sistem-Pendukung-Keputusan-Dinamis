@@ -34,8 +34,7 @@ Aplikasi ini dilengkapi dengan berbagai fitur yang mendukung fleksibilitas dalam
 ---
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/UsernameAnda/NamaRepositoryAnda.git
-cd NamaRepositoryAnda
+git clone https://github.com/morilegend/Sistem-Pendukung-Keputusan-Dinamis
 ```
 
 ### 2. Instalasi Dependensi PHP
